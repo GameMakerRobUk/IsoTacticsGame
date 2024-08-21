@@ -1,0 +1,6 @@
+MAP,MAP TYPE,CSV Conversation,MAP,MAP TYPE,CSV Conversation,MAP,MAP TYPE,CSV Conversation,MAP,MAP TYPE,CSV Conversation,,,key
+2,0,conversation_a_debriefing.csv,-1,-1,,-1,-1,,-1,-1,,,,map_types
+1,2,,0,1,conversation_battle_1.csv,-1,-1,,-1,-1,,,,0 - Story Scene
+1,2,,-1,-1,,3,1,conversation_battle_2.csv,-1,-1,,,,1 - Battle
+1,2,,-1,-1,,-1,-1,,4,1,conversation_battle_3.csv,,,2 - Shop
+-1,-1,,-1,-1,,-1,-1,,-1,-1,,,,
